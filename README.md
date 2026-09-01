@@ -24,9 +24,17 @@
 ### 🏆 **Achievements & Stats**
 <div align="center">
   
-  ![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black)
-  ![CodeForces](https://img.shields.io/badge/Codeforces-445283?style=for-the-badge&logo=codeforces&logoColor=white)
-  ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+  <a href="https://www.leetcode.com/shivam-attri" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  
+  <a href="https://codeforces.com/profile/shivamattri" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445283?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces" />
+  </a>
+  
+  <a href="https://auth.geeksforgeeks.org/user/shivamattri1" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
   
   📧 **Email:** shivamkumarattri79@gmail.com
 </div>
