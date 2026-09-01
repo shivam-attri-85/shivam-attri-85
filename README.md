@@ -17,6 +17,16 @@
 
 - 📫 How to reach me **shivamkumarattri79@gmail.com**
 
+---
+
+## 🐍 GitHub Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam-attri-85/shivam-attri-85/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivam-attri-85/shivam-attri-85/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shivam-attri-85/shivam-attri-85/output/github-contribution-grid-snake.svg">
+</picture>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shivam-kumar-9ba2bb386/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-kumar-9ba2bb386/" height="30" width="40" /></a>
