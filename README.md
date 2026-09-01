@@ -1,24 +1,39 @@
-﻿<h1 align="center">Hi 👋, I'm Shivam Chaudhary</h1>
-<h3 align="center">A passionate Engineer from India</h3>
+﻿<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F7BA00&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Shivam+Chaudhary" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-attri-85&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-attri-85" /> </p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=💻+Full-Stack+Developer;🚀+Tech+Enthusiast;🎯+Problem+Solver;☁️+Cloud+Innovator" alt="Typing SVG" />
+</h3>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivam-attri-85&label=Profile%20views&color=00D9FF&style=for-the-badge" alt="shivam-attri-85" />
+</div>
 
-<!-- - 🎓 **B.Tech Computer Science Student** -->
-- 💻 **Passionate about Full-Stack Development**
-- 🤖 **Exploring Machine Learning & AI**
-- 📚 **Currently focusing on DSA & Backend Development**
-- ☁️ **Learning Cloud & AWS**
-- 🎯 **Goal: Become an Industry-Ready Software Developer**
-<!-- 
-- 👨‍💻 All of my projects are available at [https://shivam-attri-85.github.io/portfolio/](https://shivam-attri-85.github.io/portfolio/)
+<hr style="border: 2px solid #00D9FF;">
 
-- 📄 Know about my experiences [https://shivam-attri-85.github.io/portfolio/](https://shivam-attri-85.github.io/portfolio/) -->
+### 🌟 **About Me**
+- 💻 **Passionate about Full-Stack Development** | Building scalable applications
+- 🤖 **Exploring Machine Learning & AI** | Neural networks & data science
+- 📚 **Currently focusing on DSA & Backend Development** | Mastering algorithms
+- ☁️ **Learning Cloud & AWS** | Infrastructure & deployment
+- 🎯 **Goal: Become an Industry-Ready Software Developer** | Continuous learner
 
-- 📫 How to reach me **shivamkumarattri79@gmail.com**
+<hr style="border: 2px solid #00D9FF;">
 
----
-<h3 align="left">Connect with me:</h3>
+### 🏆 **Achievements & Stats**
+<div align="center">
+  
+  ![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black)
+  ![CodeForces](https://img.shields.io/badge/Codeforces-445283?style=for-the-badge&logo=codeforces&logoColor=white)
+  ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+  
+  📧 **Email:** shivamkumarattri79@gmail.com
+</div>
+
+<hr style="border: 2px solid #00D9FF;">
+
+### 🔗 **Connect with me**
 <p align="left">
 <a href="https://www.linkedin.com/in/shivam-kumar-9ba2bb386/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-kumar-9ba2bb386/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shivamattri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shivamattri" height="30" width="40" /></a>
@@ -31,24 +46,67 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **GitHub Statistics**
 
-![](https://github-readme-stats.shion.dev/api?username=shivam-attri-85&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=shivam-attri-85&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shivam-attri-85&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=shivam-attri-85&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shivam-attri-85&theme=tokyonight&hide_border=true&layout=compact" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=shivam-attri-85&theme=tokyonight&hide_border=true&stroke=00D9FF" />
+</div>
 
 ---
 
-## 💬 Random Dev Quote
+## 💭 **Daily Motivation**
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ---
 
-## 🐍 GitHub Snake
+## 🎨 **Unique Features**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam-attri-85/shivam-attri-85/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivam-attri-85/shivam-attri-85/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shivam-attri-85/shivam-attri-85/output/github-contribution-grid-snake.svg">
-</picture>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>⚡ Performance First</h3>
+      <p>Optimized & scalable code</p>
+    </td>
+    <td align="center">
+      <h3>🔐 Secure by Design</h3>
+      <p>Security-focused development</p>
+    </td>
+    <td align="center">
+      <h3>🚀 Always Learning</h3>
+      <p>Latest tech & best practices</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 **Recent Activity**
+
+> **Last Updated:** Auto-synced with GitHub • **Contributions:** Actively coding daily • **Current Focus:** Full-Stack & Cloud Architecture
+
+<div align="center">
+  
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivam-attri-85&theme=tokyo-night&hide_border=true&area=true)
+  
+</div>
+
+---
+
+### ⭐ **If you like my work, don't forget to star my repositories!**
+
+<div align="center">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/shivam-attri-85?label=Follow&style=social)](https://github.com/shivam-attri-85)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/shivam_attri?style=social)](https://twitter.com/shivam_attri)
+  
+</div>
