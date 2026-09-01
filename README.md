@@ -96,19 +96,6 @@
   </tr>
 </table>
 
----
-
-## 📈 **Recent Activity**
-
-> **Last Updated:** Auto-synced with GitHub • **Contributions:** Actively coding daily • **Current Focus:** Full-Stack & Cloud Architecture
-
-<div align="center">
-  
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivam-attri-85&theme=tokyo-night&hide_border=true&area=true)
-  
-</div>
-
----
 
 ### ⭐ **If you like my work, don't forget to star my repositories!**
 
